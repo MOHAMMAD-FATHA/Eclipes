@@ -1,2 +1,2 @@
 This is my first txt file
-Creating merge conflict from text
+Creating merge conflict from local
