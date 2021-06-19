@@ -1,1 +1,2 @@
 This is my first txt file
+Creating a merge conflit from remote
